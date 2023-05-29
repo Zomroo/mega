@@ -1,5 +1,4 @@
 from pyrogram import Client, filters
-from google.colab import drive
 import subprocess
 
 # Enter your bot token here
